@@ -7,5 +7,6 @@ namespace Pis_roko_projekt1
 {
     class NewClass
     {
+        // hmm ok
     }
 }
