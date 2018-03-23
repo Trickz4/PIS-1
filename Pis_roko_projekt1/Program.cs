@@ -10,6 +10,7 @@ namespace Pis_roko_projekt1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            //GAYYYYY
         }
     }
 }
